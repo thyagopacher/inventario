@@ -1,0 +1,23 @@
+CACHE MANIFEST
+# 2015-05-18:v2 
+    
+# Explicitly cached 'master entries'. 
+CACHE: 
+/visao/bootstrap/css/bootstrap.min.css
+https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+/visao/dist/css/AdminLTE.min.css
+/visao/plugins/iCheck/square/blue.css
+/visao/recursos/css/sweet-alert.min.css
+/visao/plugins/jQuery/jQuery-2.1.4.min.js
+/arquivos/2016-07-291469847267.fw
+/visao/bootstrap/js/bootstrap.min.js
+/visao/plugins/iCheck/icheck.min.js
+/visao/recursos/js/ajax/LoginAdmin.js
+/visao/recursos/js/sweet-alert.min.js
+/visao/plugins/iCheck/square/blue.png
+
+NETWORK:
+*
+                        
+  

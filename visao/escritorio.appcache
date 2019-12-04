@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# 2015-05-18:v2 
+    
+# Explicitly cached 'master entries'. 
+CACHE: 
+/visao/min/?b=visao/recursos/css&f=bootstrap.min.css,AdminLTE.min.css
+/visao/recursos/css/jquery.dataTables.css
+/visao/recursos/css/jquery-ui.min.css
+/visao/recursos/img/sem_imagem.png
+/visao/recursos/css/font-awesome.min.css
+/visao/dist/css/skins/_all-skins.min.css
+/visao/min/?b=visao/recursos/js&f=jquery.min.js,jquery-migrate-1.4.1.min.js,Geral.js,bootstrap.min.js
+/visao/recursos/js/jquery.form.min.js
+/visao/recursos/js/ajax/Departamento.js
+/visao/recursos/js/ajax/Diretoria.js
+/visao/recursos/css/ionicons.min.css
+/visao/recursos/css/sweet-alert.min.css
+/visao/recursos/js/sweet-alert.min.js
+/visao/dist/js/app.min.js
+/visao/dist/js/pages/dashboard.js
+
+
+NETWORK:
+*
+                        
+  

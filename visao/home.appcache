@@ -1,0 +1,29 @@
+CACHE MANIFEST
+# 2015-05-18:v2 
+    
+# Explicitly cached 'master entries'. 
+CACHE: 
+/visao/recursos/css/jquery-ui.min.css
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css
+/visao/dist/css/AdminLTE.min.css
+/visao/dist/css/skins/_all-skins.min.css
+/arquivos/2016-07-301469886060.jpg
+/visao/min/?b=visao/recursos/js&f=jquery.min.js,jquery-migrate-1.4.1.min.js,bootstrap.min.js
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js
+/visao/recursos/js/Geral.js
+https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css
+https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js
+/visao/recursos/css/ionicons.min.css
+/visao/recursos/css/sweet-alert.min.css
+/visao/recursos/js/sweet-alert.min.js
+/visao/dist/js/app.min.js
+/visao/dist/js/pages/dashboard.js
+/visao/plugins/fastclick/fastclick.min.js
+
+NETWORK:
+*
+                        
+  
